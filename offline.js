@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1627918670,
+	"version": 1627997455,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -8,6 +8,7 @@
 		"images/tiledbackground.png",
 		"images/sprite-sheet0.png",
 		"images/sprite2-sheet0.png",
+		"images/sprite2-sheet1.png",
 		"images/sprite3-sheet0.png",
 		"images/ПУЛЯ-sheet0.png",
 		"images/sprite6-sheet0.png",
@@ -20,6 +21,10 @@
 		"images/sprite8-sheet0.png",
 		"images/sprite10-sheet0.png",
 		"images/sprite11-sheet0.png",
+		"media/20210803-145014.wav.m4a",
+		"media/20210803-145014.wav.ogg",
+		"media/breatha-josh-pan.m4a",
+		"media/breatha-josh-pan.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
