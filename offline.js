@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1627997455,
+	"version": 1628077815,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,7 @@
 		"images/sprite8-sheet0.png",
 		"images/sprite10-sheet0.png",
 		"images/sprite11-sheet0.png",
+		"images/sprite12-sheet0.png",
 		"media/20210803-145014.wav.m4a",
 		"media/20210803-145014.wav.ogg",
 		"media/breatha-josh-pan.m4a",
